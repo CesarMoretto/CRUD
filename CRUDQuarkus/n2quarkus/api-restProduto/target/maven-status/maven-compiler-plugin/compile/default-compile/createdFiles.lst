@@ -1,0 +1,14 @@
+org\edu\unidep\impl\PedidoImpl.class
+org\edu\unidep\model\Orcamento.class
+org\edu\unidep\repository\ProdutoRepository.class
+org\edu\unidep\repository\OrcamentoRepository.class
+org\edu\unidep\service\ProdutoService.class
+org\edu\unidep\repository\PedidoRepository.class
+org\edu\unidep\model\Pedido.class
+org\edu\unidep\impl\ProdutoImpl.class
+org\edu\unidep\impl\OrcamentoImpl.class
+org\edu\unidep\model\Produto.class
+org\edu\unidep\rest\OrcamentoREST.class
+org\edu\unidep\rest\ProdutoREST.class
+org\edu\unidep\rest\PedidoREST.class
+META-INF\panache-archive.marker
